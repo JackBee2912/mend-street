@@ -2,14 +2,14 @@
 title: Privacy Policy — Mend Street
 ---
 
-# Mend Street: Repair Stall — Privacy Policy
+# Mend Street: 365 Days — Privacy Policy
 
 **Effective date:** 18 November 2026
 **Contact:** jackbee.tech@gmail.com
 
 ## What this policy covers
 
-This policy explains what information the mobile game **Mend Street: Repair Stall** ("the game") handles, why, and what
+This policy explains what information the mobile game **Mend Street: 365 Days** ("the game") handles, why, and what
 choices you have. The game has no accounts and no server of its own.
 
 ## Information the game handles
