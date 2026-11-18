@@ -4,7 +4,7 @@ title: Privacy Policy — Mend Street
 
 # Mend Street: Repair Stall — Privacy Policy
 
-**Effective date:** 17 November 2026
+**Effective date:** 18 November 2026
 **Contact:** jackbee.tech@gmail.com
 
 ## What this policy covers
@@ -24,9 +24,10 @@ asks to track you. To show ads, count them, limit how often they appear and prev
 device's advertising identifier, device information (model, operating system, language), your approximate location from
 your IP address, and how you interact with the ads.
 
-**Analytics (only if you agree).** The first time you open the game it asks whether it may send anonymous play
-statistics. Nothing is sent unless you choose Agree, and you can turn it off at any time in Settings > Play statistics.
-If you agree, the game uses Google Analytics for Firebase to learn how the game is played, so it can be made better:
+**Analytics (you can turn it off).** On Android the game asks the first time you open it whether it may send anonymous
+play statistics, and nothing is sent unless you choose Agree. On iPhone the statistics are on from the start. On both you
+can turn them off at any time in Settings > Play statistics, and nothing more is sent after that. When they are on, the
+game uses Google Analytics for Firebase to learn how the game is played, so it can be made better:
 for example how far players get in the season, which activities they try and where they stop. It records game events
 (such as a repair finished or a day started), an app-instance identifier created by Firebase, device information (model,
 operating system, language, app version) and your approximate location from your IP address. It does not record your
