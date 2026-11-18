@@ -2,7 +2,7 @@
 title: Mend Street
 ---
 
-# Mend Street: Repair Stall
+# Mend Street: 365 Days
 
 A cozy repair story: Kai mends broken things at a street stall to pay off a 365-day debt.
 
